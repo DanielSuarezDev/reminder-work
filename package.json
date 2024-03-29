@@ -1,17 +1,18 @@
 {
   "name": "reminder-work",
   "displayName": "reminder work",
-  "description": "Set reminders directly in VS Code.",
+  "description": "Boost your productivity by setting custom reminders directly within VS Code. With Reminder Work, never miss important tasks amid coding. Schedule reminders for breaks, meetings, code reviews, or any key activities with ease. Stay on top of your to-dos with this sleek, integrated solution.",
   "author": {
     "name": "Daniel Suarez",
     "email": "danielsuarez3114@gmail.com"
   },
-  "publisher": "DanielSuarezDev",
+  "publisher": "reminder-work",
+  "icon": "reminder-work-logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/DanielSuarezDev/reminder-work"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.87.0"
   },
